@@ -1,0 +1,49 @@
+// 定义字体、颜色规范
+
+ //定义字体规范
+ $font-10px : 10px;
+ $font-12px : 12px;
+ $font-14px : 14px;
+ $font-16px : 16px;
+ $font-18px : 18px;
+ $font-22px : 22px;
+
+ // 我的颜色规范
+ $color-theme    : #409EFF;
+ $color-success  : #67C23A;
+ $color-warning  : #EB9E05;
+ $color-danger   : #FA5555;
+ $color-info     : #878D99;
+
+ $color-bgc      : #f0f0f0;
+ $color-box-bgc  : #fff;
+
+ $color-md-font  : #101010;//最深：商品名称
+ $color-d-font   : #333;//深：醒目标题
+ $color-n-font   : #666;//一般：图标说明、子标题
+ $color-l-font   : #999;//浅：商品附加说明/链接
+ $color-ml-font  : #ccc;//最浅：tabBar、带删除杠的文字
+ $color-price    : #f23030;//价格
+
+ $color-border   : #bbb;
+ $color-l-border : rgba(7, 17, 27, 0.1);
+
+// 我定义的间隙宽度
+ $inner-between : 10px;
+ $outer-between : 1rem;
+
+ // 定义颜色规范
+ //$color-background           : #222;
+ //$color-background-d         : rgba(0, 0, 0, 0.3);
+ //$color-highlight-background : #333;
+ //$color-dialog-background    : #666;
+ //$color-theme                : #409EFF;
+ //$color-theme-d              : rgba(255, 205, 49, 0.5);
+ //$color-sub-theme            : #d93f30;
+ //$color-text                 : #fff;
+ //$color-text-d               : rgba(255, 255, 255, 0.3);
+ //$color-text-l               : rgba(255, 255, 255, 0.5);
+ //$color-text-ll              : rgba(255, 255, 255, 0.8);
+
+
+
