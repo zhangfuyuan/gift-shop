@@ -4,8 +4,6 @@
 
 ## 开发
 
-[笔记](https://note.youdao.com/web/#/file/recent/markdown/WEB3690fd60e750a77738d028d737756713/)
-
 [Mint UI](http://mint-ui.github.io/docs/#/zh-cn2)
 
 [Mint UI-github](https://github.com/ElemeFE/mint-ui/tree/master/example/pages)
@@ -21,11 +19,6 @@
 [github/gift-shop](https://github.com/zhangfuyuan/gift-shop)
 
 [mock](https://easy-mock.com/login)
-```
-Jeffrey
-
-aakuang
-```
 
 ```
 npm install --save-dev sass-loader
